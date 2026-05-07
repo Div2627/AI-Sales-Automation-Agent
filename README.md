@@ -65,7 +65,6 @@ The platform reduces manual prospect research effort and improves sales communic
 
 ### API Communication
 - Fetch API
->>>>>>> c904d6f2ff35ae6158dd2d8d0802611dd22a6840
 
 ---
 
