@@ -5,7 +5,7 @@ An AI-powered sales automation platform that generates personalized outreach con
 
 ---
 
-<<<<<<< HEAD
+
 ## ✨ Features
 
 * Dynamic prospect personalization
@@ -14,7 +14,7 @@ An AI-powered sales automation platform that generates personalized outreach con
 * Objection handling suggestions
 * Modern dark-themed SaaS UI
 * Real-time frontend-backend integration
-=======
+
 ## 🌐 Project Overview
 
 AI Sales Automation Agent helps sales teams create personalized outreach strategies instantly.
@@ -42,19 +42,18 @@ The platform reduces manual prospect research effort and improves sales communic
 - Professional dark-themed SaaS UI
 - Real-time frontend-backend integration
 - Responsive and modern interface
->>>>>>> c904d6f2ff35ae6158dd2d8d0802611dd22a6840
+
 
 ---
 
 ## 🛠 Tech Stack
 
-<<<<<<< HEAD
 * HTML
 * CSS
 * JavaScript
 * Node.js
 * Express.js
-=======
+
 ### Frontend
 - HTML
 - CSS
@@ -72,7 +71,6 @@ The platform reduces manual prospect research effort and improves sales communic
 
 ## 📌 How It Works
 
-<<<<<<< HEAD
 Users enter:
 
 * Prospect Name
@@ -100,7 +98,7 @@ The platform dynamically generates:
 * Personalized sales talking points
 * AI-generated outreach messages
 * Context-aware objection handling
-=======
+
 ### Step 1
 User enters:
 - Prospect Name
@@ -143,13 +141,13 @@ Generated results are displayed in the UI instantly.
 #### Objections & Rebuttals
 - "We already use tools"
   → This integrates seamlessly with Netflix's existing workflows.
->>>>>>> c904d6f2ff35ae6158dd2d8d0802611dd22a6840
+
 
 ---
 
 ## 🎯 Problem Statement
 
-<<<<<<< HEAD
+
 Sales teams spend significant time manually researching prospects and preparing outreach strategies.
 
 This platform automates:
@@ -165,7 +163,7 @@ This platform automates:
 * Professional dark-themed interface
 * Responsive layout
 * Modern SaaS-style design
-=======
+
 Sales teams spend significant time:
 - researching prospects
 - preparing outreach
@@ -188,13 +186,10 @@ This platform automates those repetitive tasks and improves outreach efficiency.
 ## 📷 Preview
 
 ![Preview](preview.png)
->>>>>>> c904d6f2ff35ae6158dd2d8d0802611dd22a6840
-
----
 
 ## ⚡ Future Scope
 
-<<<<<<< HEAD
+
 * LinkedIn integration
 * Gemini/OpenAI integration
 * CRM integration
@@ -206,7 +201,7 @@ This platform automates those repetitive tasks and improves outreach efficiency.
 ## 👨‍💻 Developed For
 
 Hackathon Submission Project
-=======
+
 - Gemini/OpenAI integration
 - LinkedIn profile analysis
 - CRM integration
@@ -222,5 +217,5 @@ Hackathon Submission Project
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sales-automation-agent.git
->>>>>>> c904d6f2ff35ae6158dd2d8d0802611dd22a6840
+git clone https://github.com/Div2627/sales-automation-agent.git
+
